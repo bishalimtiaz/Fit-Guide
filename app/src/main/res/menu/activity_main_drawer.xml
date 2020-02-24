@@ -23,6 +23,10 @@
             android:icon="@mipmap/calculator"
             android:title="BMR Calculator" />
         <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_directions_run_black_24dp"
+            android:title="Step Counter" />
+        <item
             android:id="@+id/nav_tools"
             android:icon="@drawable/ic_contacts"
             android:title="Contact" />
