@@ -8,11 +8,11 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="menu_gallery">Recipe</string>
+    <string name="menu_slideshow">Bmr Calculator</string>
+    <string name="menu_tools">Contacts</string>
+    <string name="menu_share">Step Counter</string>
+    <string name="menu_send">Knowledge Base</string>
     <string name="count_zero">0</string>
     <string name="text_steps">Steps</string>
     <string name="ok">OK</string>
@@ -26,4 +26,18 @@
     <string name="ss">/</string>
     <string name="distance">Distance:</string>
     <string name="_6000">6000</string>
+
+    <string name="BMR_calculator">BMR Calculator</string>
+    <string name="Ok">Ok</string>
+
+    <array name="Exercise_details">
+        <item>Very Little</item>
+        <item>1–3 days per week</item>
+        <item>3–5 days per week</item>
+        <item>6–7 days per week</item>
+        <item>twice per day, extra heavy workouts</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

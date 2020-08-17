@@ -4,4 +4,13 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="setep_counter">#26a6d9</color>
+
+    <color name="Text_color_1">#612dd3</color>
+    <color name="buuton_color_1">#d15e20</color>
+    <color name="Hint">#8a8a8a</color>
+    <color name="Text_color_2">#642faf</color>
+    <color name="btnpressed">#5e5c5c</color>
+    <color name="btnnotpressed">#f4b42b</color>
+    <color name="ripplebtn2">#8bca3a</color>
+    <color name="sv_primary">#3F5AA6</color>
 </resources>

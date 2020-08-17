@@ -22,13 +22,17 @@
                 android:id="@+id/knowleddge_base"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:layout_marginEnd="10dp">
+                android:layout_marginEnd="10dp"
+                app:cardCornerRadius="20dp">
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:orientation="vertical"
-                    android:layout_gravity="center">
+                    android:layout_gravity="center"
+                    android:background="@drawable/card_border"
+                    android:padding="4dp"
+                    >
                     <ImageView
                         android:layout_gravity="center"
                         android:layout_width="120dp"
@@ -40,7 +44,7 @@
                         android:layout_height="wrap_content"
                         android:text="Knowledge Base"
                         android:layout_gravity="center"
-                        android:textSize="20sp"
+                        android:textSize="18sp"
                         android:textStyle="bold"
                         android:layout_marginTop="6dp">
 
@@ -53,13 +57,16 @@
                 android:id="@+id/rcipes"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:layout_marginStart="10dp">
+                android:layout_marginStart="10dp"
+                app:cardCornerRadius="20dp">
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:orientation="vertical"
-                    android:layout_gravity="center">
+                    android:layout_gravity="center"
+                    android:background="@drawable/card_border"
+                    android:padding="4dp">
                     <ImageView
                         android:layout_gravity="center"
                         android:layout_width="120dp"
@@ -71,7 +78,7 @@
                         android:layout_height="wrap_content"
                         android:text="Diet Recipes"
                         android:layout_gravity="center"
-                        android:textSize="20sp"
+                        android:textSize="18sp"
                         android:textStyle="bold"
                         android:layout_marginTop="4dp">
 
@@ -91,13 +98,16 @@
             android:id="@+id/bmr_calculator"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:layout_marginEnd="10dp">
+            android:layout_marginEnd="10dp"
+            app:cardCornerRadius="20dp">
 
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:layout_gravity="center">
+                android:layout_gravity="center"
+                android:background="@drawable/card_border"
+                android:padding="4dp">
                 <ImageView
                     android:layout_gravity="center"
                     android:layout_width="120dp"
@@ -109,7 +119,7 @@
                     android:layout_height="wrap_content"
                     android:text="BMR Calculator"
                     android:layout_gravity="center"
-                    android:textSize="20sp"
+                    android:textSize="18sp"
                     android:textStyle="bold"
                     android:layout_marginTop="4dp">
 
@@ -122,13 +132,16 @@
             android:id="@+id/contact"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:layout_marginStart="10dp">
+            android:layout_marginStart="10dp"
+            app:cardCornerRadius="20dp">
 
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:layout_gravity="center">
+                android:layout_gravity="center"
+                android:background="@drawable/card_border"
+                android:padding="4dp">
                 <ImageView
                     android:layout_gravity="center"
                     android:layout_width="120dp"
@@ -140,7 +153,7 @@
                     android:layout_height="wrap_content"
                     android:text="Contact"
                     android:layout_gravity="center"
-                    android:textSize="20sp"
+                    android:textSize="18sp"
                     android:textStyle="bold"
                     android:layout_marginTop="4dp">
 

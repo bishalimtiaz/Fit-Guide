@@ -11,23 +11,23 @@
 
 
         <item
-            android:id="@+id/nav_send"
+            android:id="@+id/nav_knowledge_base"
             android:icon="@drawable/ic_graduate_cap"
             android:title="Knowledge Base" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_recipie"
             android:icon="@drawable/ic_cutlery"
             android:title="Recipes" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_bmr_calculator"
             android:icon="@mipmap/calculator"
             android:title="BMR Calculator" />
         <item
-            android:id="@+id/nav_share"
+            android:id="@+id/nav_step_counter"
             android:icon="@drawable/ic_directions_run_black_24dp"
             android:title="Step Counter" />
         <item
-            android:id="@+id/nav_tools"
+            android:id="@+id/nav_contacts"
             android:icon="@drawable/ic_contacts"
             android:title="Contact" />
     </group>

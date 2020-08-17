@@ -12,32 +12,32 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.blz.prisoner.fitguide.ui.gallery.GalleryFragment"
+        android:id="@+id/nav_recipie"
+        android:name="com.blz.prisoner.fitguide.ui.gallery.RecipeFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_recipe" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.blz.prisoner.fitguide.ui.slideshow.SlideshowFragment"
+        android:id="@+id/nav_bmr_calculator"
+        android:name="com.blz.prisoner.fitguide.ui.slideshow.BmrCalculatorFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_bmr_calculator" />
 
     <fragment
-        android:id="@+id/nav_tools"
-        android:name="com.blz.prisoner.fitguide.ui.tools.ToolsFragment"
+        android:id="@+id/nav_contacts"
+        android:name="com.blz.prisoner.fitguide.ui.tools.ContactFragment"
         android:label="@string/menu_tools"
-        tools:layout="@layout/fragment_tools" />
+        tools:layout="@layout/fragment_contacts" />
 
     <fragment
-        android:id="@+id/nav_share"
-        android:name="com.blz.prisoner.fitguide.ui.share.ShareFragment"
+        android:id="@+id/nav_step_counter"
+        android:name="com.blz.prisoner.fitguide.ui.share.StepCounterFragment"
         android:label="@string/menu_share"
-        tools:layout="@layout/fragment_share" />
+        tools:layout="@layout/fragment_step_counter" />
 
     <fragment
-        android:id="@+id/nav_send"
-        android:name="com.blz.prisoner.fitguide.ui.send.SendFragment"
+        android:id="@+id/nav_knowledge_base"
+        android:name="com.blz.prisoner.fitguide.ui.send.KnowledgeBaseFragment"
         android:label="@string/menu_send"
-        tools:layout="@layout/fragment_send" />
+        tools:layout="@layout/fragment_knowledge_base" />
 </navigation>
